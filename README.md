@@ -1,9 +1,6 @@
-Here’s your updated **README.md** with your GitHub repository and Vercel deployment link! 🚀  
 
----
+**README.md**
 
-### **README.md**
-```md
 # Online Code Editor
 
 ## 🌟 Overview
@@ -31,7 +28,7 @@ It provides a **clean UI** with separate sections for code input and live output
  └── 📄 README.md     # Project Documentation
 ```
 
-## 🌍 Live Demo
+🌍 Live Demo
 🔗 [Online Code Editor](https://online-code-editorr-rohit.vercel.app)
 
 ## 🔧 Setup & Deployment
@@ -54,9 +51,5 @@ It provides a **clean UI** with separate sections for code input and live output
 
 ## 📜 License
 This project is **open-source**. Feel free to use and modify it! 😊
-```
 
----
 
-This README is now **fully updated** with your **GitHub repo** and **deployed app link**! 🚀   
-Let me know if you need any changes.
