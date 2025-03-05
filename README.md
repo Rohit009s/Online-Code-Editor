@@ -32,7 +32,7 @@ It provides a **clean UI** with separate sections for code input and live output
 ```
 
 ## 🌍 Live Demo
-🔗 [Online Code Editor](https://online-code-editorr-rohit.vercel.app/)
+🔗 [Online Code Editor](https://online-code-editorr-rohit.vercel.app)
 
 ## 🔧 Setup & Deployment
 
